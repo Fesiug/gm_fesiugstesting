@@ -1,0 +1,7 @@
+"Sky"
+{
+	"$hdrbaseTexture"	"skybox/f_militia_hdrbk"
+	"$baseTexture" 		"skybox/f_militiaBK"
+	"$nofog" 		1
+	"$ignorez" 		1
+}
