@@ -25,7 +25,7 @@ world
 	"detailmaterial" "detail/detailsprites"
 	"detailvbsp" "detail.vbsp"
 	"maxpropscreenwidth" "-1"
-	"skyname" "militia_hdr"
+	"skyname" "f_militia_hdr"
 	solid
 	{
 		"id" "132"
